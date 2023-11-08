@@ -1,6 +1,6 @@
 Hi 
 This is central repository file
-we can clone the central repsitory by creating a new one
+we can clone the central repsitory by creating a new one or we can clone the existing one as well
 if there is a existing one we can connect and push
 cloning- create a new repository , create new file
 go to ~ and run git clone and type url
